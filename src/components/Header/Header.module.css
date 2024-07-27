@@ -1,0 +1,11 @@
+.headerContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 97%;
+  box-sizing: border-box;
+  padding: 10px;
+  margin: 10px;
+  height: 20vh;
+}
